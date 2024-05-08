@@ -1,0 +1,23 @@
+.header .text{
+    text-align: center;
+}
+.container{
+    height: 500px;
+    font-size: larger;
+}
+.buttons{
+    margin: 10px;
+    display: flex;
+    justify-content:space-between;
+}
+#more,#serve{
+    background-color: #007BFF;
+    color: white;
+    font-size: large;
+    padding: 15px;
+    width: 50%;
+    margin: 10px;
+}
+#serve{
+    width: 48%;
+}
